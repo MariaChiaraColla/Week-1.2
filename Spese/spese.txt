@@ -1,0 +1,7 @@
+01/03/2021,Viaggio,convegno,1200
+05/03/2021,Alloggio,convegno,950
+10/03/2021,Vitto,convegno,567
+16/03/2021,Altro,convegno,55
+20/03/2021,Viaggio,convegno,2570
+25/03/2021,Alloggio,convegno,389
+

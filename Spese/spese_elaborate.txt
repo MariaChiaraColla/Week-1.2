@@ -1,0 +1,6 @@
+01/03/2021,Viaggio,convegno,1200,APPROVATA,CEO,1250
+05/03/2021,Alloggio,convegno,950,APPROVATA,OperatorManeger,950
+10/03/2021,Vitto,convegno,567,APPROVATA,OperatorManeger,170,10000000000002
+16/03/2021,Altro,convegno,55,APPROVATA,Maneger,49,5
+20/03/2021,Viaggio,convegno,2570,NEGATA,-,-
+25/03/2021,Alloggio,convegno,389,APPROVATA,Maneger,389
